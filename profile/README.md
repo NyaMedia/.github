@@ -7,5 +7,5 @@ Feel free to reach out via our linked email if you'd like to help out!
 ## Our Stack
 
 - Website (SvelteKit, Serverless)
-- Scraper (Puppeteer, CF Bypasser, Docker)
+- Scraper (Puppeteer, Docker)
 - M3U8 Proxy (JS, Serverless)
