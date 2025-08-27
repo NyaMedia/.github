@@ -1,0 +1,8 @@
+# Nya Media
+
+### [Issues](https://github.com/NyaMedia/issues)
+
+We provide a free-range media streaming service for VRChat.
+
+Feel free to reach out via our linked email or bluesky if you'd like to help out!
+
